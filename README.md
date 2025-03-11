@@ -1,6 +1,6 @@
 Welcome!  Below please find the exact steps for reproducing our Latent Dirichlet Allocation topic models for the subreddits r/birthcontrol and r/TwoXChromosomes.
 1.	Download the .torrent comment and submission files of r/birthcontrol and r/TwoXChromosomes using the steps outlined at:  https://www.reddit.com/r/pushshift/comments/1akrhg3/separate_dump_files_for_the_top_40k_subreddits/
-2.	Save the files from step 1 as .txt files
+2.	Save the downloaded files as .txt files
 3.	In the Linux terminal, subset the data using the commands in subset-commands.sh
 4.	If it doesn’t already exist, make the ‘posts’ folder and empty it
 5.	Run create-the-documents_birthcontrol.py
