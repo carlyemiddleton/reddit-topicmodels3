@@ -16,6 +16,6 @@ f.	‘
 g.	“
 h.	[removed]
 9.	Again using find and replace, remove, in order, all lines of text listed in welcome-messages.txt from vcorpus_infile_rbirthcontrol.txt
-10.	Run run-LDA_birthcontrol.R and run-LDA_TwoXChromosomes.R
+10.	Run run-LDA_birthcontrol.R, run-LDA_TwoXChromosomes.R, 2x.R and bc.R
 11. Create the plots using the scripts in step3-plots
 12. Print the qualitative data subset using the script in step4-print-posts
